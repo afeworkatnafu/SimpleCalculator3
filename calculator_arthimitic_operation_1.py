@@ -42,7 +42,7 @@ def ArithemiticMenu():
     print("")
     print("")
     print("|==============================|")
-    print("|        Simple Calculator     |")
+    print("|        Simple Calculator 3   |")
     print("|==============================|")
     print("| 1. Addition                  |")
     print("| 2. Subtraction               |")

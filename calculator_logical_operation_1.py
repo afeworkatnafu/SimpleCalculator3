@@ -31,7 +31,7 @@ def LogicalOperationMenu():
     print("Start Simple Calculator Application")
     print("")
     print("|==============================|")
-    print("|      Logical Operatins       |")
+    print("|      Logical Operatins 3     |")
     print("|==============================|")
     print("| 1. Greater than              |")
     print("| 2. Less than                 |")
