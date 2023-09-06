@@ -35,12 +35,14 @@ def CalcSquareOfX(x):
 def CalcSquareRootOfX(x):
     return math.sqrt(x)
 
+
+
 def ArithemiticMenu():
     print("Start Simple Calculator Application")
     print("")
     print("")
     print("|==============================|")
-    print("|        Menu                  |")
+    print("|        Simple Calculator     |")
     print("|==============================|")
     print("| 1. Addition                  |")
     print("| 2. Subtraction               |")

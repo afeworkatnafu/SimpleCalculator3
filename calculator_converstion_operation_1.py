@@ -12,7 +12,7 @@ def ConversionMenu():
     print("Start Simple Calculator Application")
     print("")
     print("|==============================|")
-    print("| Menu:                        |")
+    print("|       Conversions            |")
     print("|==============================|")
     print("| 1. Convert Cent To Fahr      |")
     print("| 2. Convert Fahr To Cent      |")

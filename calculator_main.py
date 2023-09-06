@@ -8,7 +8,7 @@ def CalculatorMenu():
     print("Start Simple Calculator Application")
     print("")
     print("|==============================|")
-    print("|        Menu                  |")
+    print("|        Main Menu             |")
     print("|==============================|")
     print("| 1. Arthemitic Operation      |")
     print("| 2. Logical Operation         |")
